@@ -1,0 +1,216 @@
+<!-- Build website for little lemon restaurant -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Little Lemon</title>
+
+    <link rel="shortcut icon" href="./img/logo/Asset 9@4x.png">
+    <link rel="stylesheet" href="styles.css"> 
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,500,700&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <meta name="description" content="Little Lemon is a family-owned Mediterranean restaurant in Chicago, Illinois, offering traditional recipes with a modern twist.">
+    <meta name="keywords" content="Little Lemon, Mediterranean restaurant, Chicago, Italian cuisine, Greek cuisine, Turkish cuisine, family-owned, seasonal menu, dining experience">
+    <meta name="author" content="Xiyuan Wu">
+</head>
+<body class="body">
+    
+    <!-- landing page -->
+    <section class="landing-page" id="home">
+        <div class="landing-text">
+            <img src="./img/landing.jpg" alt="Landing Image" class="landing-image">
+            <h1>Little Lemon</h1>
+        </div>
+
+    </section>
+
+    <!-- header -->
+    <header>
+        <div class="header-container">
+            <img src="./img/logo/Asset 16@4x.png" alt="Little Lemon Logo" class="logo">
+
+            <!-- navigation -->
+            <nav>
+                <ul class="nav-list">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#menu">Menu</a></li>
+                    <li><a href="#order">Order</a></li>
+                    <li><a href="#blog">Blog</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+
+            <!-- social media links -->
+            <div class="social-icons">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+            </div>
+        </div>
+
+    </header>
+
+    
+    <!-- main -->
+    <main>
+
+        <!-- About Section -->
+        <div id="about" class="about-section" style="display: grid; gap: 20px; align-items: center;">
+            <!-- Left side content -->
+            <div>
+            <h1>About Us</h1>
+            <p>
+                Welcome to Little Lemon, a family-owned Mediterranean restaurant located in the heart of Chicago, Illinois. 
+                We take pride in serving traditional recipes with a modern twist, inspired by the rich culinary heritage of Italy, Greece, and Turkey.
+            </p>
+            <br>
+            <p>
+                Founded by Italian brothers Mario and Adrian, Little Lemon offers a warm and inviting atmosphere where you can enjoy a carefully crafted menu 
+                that changes seasonally. Whether you're here for a quick bite or a leisurely meal, we promise an unforgettable dining experience.
+            </p>
+            <br>
+            <p>
+                Join us for a taste of the Mediterranean right here in Chicago. We look forward to welcoming you to Little Lemon!
+            </p>
+            </div>
+
+            <!-- Right side image -->
+            <div class="about-image">
+            <img src="./img/about-us.jpg" alt="About Little Lemon" style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 10px;">
+            </div>
+        </div>
+
+
+        <!-- Menu Section -->
+        <div id="menu" class="menu-section">
+            <h1>Our Menu</h1>
+            <p>Explore our Mediterranean-inspired dishes, crafted with fresh seasonal ingredients.</p>
+
+            <div class="menu-cards">
+                <!-- Starters -->
+                <div class="menu-card">
+                <h3>Starters</h3>
+                <ul>
+                    <li>Bruschetta<span class="price">$8</span></li>
+                    <li>Greek Salad<span class="price">$10</span></li>
+                    <li>Hummus Plate<span class="price">$9</span></li>
+                </ul>
+                </div>
+
+                <!-- Mains -->
+                <div class="menu-card">
+                <h3>Mains</h3>
+                <ul>
+                    <li>Grilled Chicken Skewers<span class="price">$18</span></li>
+                    <li>Lemon Pasta<span class="price">$16</span></li>
+                    <li>Lamb Chops<span class="price">$22</span></li>
+                </ul>
+                </div>
+
+                <!-- Desserts -->
+                <div class="menu-card">
+                <h3>Desserts</h3>
+                <ul>
+                    <li>Tiramisu<span class="price">$8</span></li>
+                    <li>Baklava<span class="price">$7</span></li>
+                    <li>Lemon Tart<span class="price">$9</span></li>
+                </ul>
+                </div>
+            </div>
+
+            <div class="menu-button-wrapper">
+                <a href="#" class="view-btn">View Full Menu</a>
+                <p class="menu-note">*Menu items may vary seasonally. Ask your server about vegetarian and gluten-free options.</p>
+            </div>
+            
+        </div>
+
+        <!-- Order Now Section -->
+        <div id="order" class="order-hero">
+            <div class="order-overlay"></div>
+            <div class="order-content">
+                <div class="order-inner">
+                <p>Enjoy our Mediterranean dishes from the comfort of your home</p>
+                <a href="#" class="order-btn">Order Now</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Blog Section -->
+        <div id="blog" class="blog-section">
+        <h1>Our Blog</h1>
+        <p class="blog-intro">Discover stories, tips, and insights from the Little Lemon team.</p>
+
+        <div class="blog-cards">
+            <!-- Card 1 -->
+            <div class="blog-card">
+            <img src="./img/blog/blog1.jpg" alt="Healthy Mediterranean Eating">
+            <div class="blog-content">
+                <a href="#"><h3>Healthy Mediterranean Eating</h3></a>
+                <p>Learn how traditional recipes can inspire modern, healthy eating habits.</p>
+            </div>
+            </div>
+
+            <!-- Card 2 -->
+            <div class="blog-card">
+            <img src="./img/blog/blog2.png" alt="Behind the Scenes at Little Lemon">
+            <div class="blog-content">
+                <a href="#"><h3>Behind the Scenes at Little Lemon</h3></a>
+                <p>Meet our chefs and see how we bring Mediterranean flavors to your table.</p>
+            </div>
+            </div>
+
+            <!-- Card 3 -->
+            <div class="blog-card">
+            <img src="./img/blog/blog3.webp" alt="Seasonal Menu Highlights">
+            <div class="blog-content">
+                <a href="#"><h3>Seasonal Menu Highlights</h3></a>
+                <p>Explore the fresh, seasonal ingredients we’ve added to our latest menu.</p>
+            </div>
+            </div>
+        </div>
+        </div>
+
+
+    </main>
+
+
+
+    <!-- footer -->
+    <footer id="contact">
+    <div class="footer-inner">
+        <div class="footer-columns">
+            <div class="footer-brand">
+                <img src="./img/logo/Asset 20@4x.png" alt="Little Lemon" class="footer-logo">
+            </div>
+
+            <div class="footer-col">
+                <h3>Contact Us</h3>
+                <p>info@littlelemon.com</p>
+                <p>(123) 456-7890</p>
+            </div>
+
+            <div class="footer-col">
+                <h3>Location</h3>
+                <p>123 Main St, Chicago, IL</p>
+                <p>Open Daily: 11am – 10pm</p>
+            </div>
+
+            <div class="footer-col">
+                <h3>Follow Us</h3>
+                <p>Facebook</p><p>Instagram</p><p>Twitter</p>
+            </div>
+        </div>
+
+        <p class="footer-note">&copy; 2025 Little Lemon. All rights reserved.</p>
+
+    </div>
+    </footer>
+
+
+</body>
+</html>
