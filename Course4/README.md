@@ -4,7 +4,9 @@ Refer to the [course syllabus](./syllabus4.md).
 
 This course project is about building a website for one of our four chosen businesses. Among the four choices, I chose Little Lemon Restaurant.
 
-I use HTML and CSS for this project to build a website for Little Lemon Restaurant, with a website preview. Full file refer to [website](./website/).
+Refer to the [detailed instructions](./instructions.md).
+
+I use HTML and CSS for this project to build a website for Little Lemon Restaurant, with a website preview. Complete files refer to [website](./website/).
 
 ## Website Preview
 
