@@ -6,7 +6,7 @@ This course project uses JavaScript to write a receipt maker for Little Lesson R
 
 Refer to the [detailed instructions](./instructions2.md).
 
-Complete files refer to [js](./js/).
+Complete projects files refer to [js](./js/).
 
 ## Sample Output
 
