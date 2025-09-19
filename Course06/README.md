@@ -1,4 +1,4 @@
-# Course 5: Advanced React
+# Course 6: Advanced React
 
 Refer to the [course syllabus](./syllabus6.md).
 
