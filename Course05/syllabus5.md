@@ -23,7 +23,7 @@ By the end of this module you will be able to:
 - Use and manipulate props and components to effect visual results.
 
 
-Module 2: Data and State
+## Module 2: Data and State
 
 The second module of this course deals with working with events and errors in React. You'll learn how events work and how you can handle them in React. Handling events can sometimes get a bit tricky, so you'll also learn about dealing with errors related to events in React.
 
@@ -36,7 +36,7 @@ By the end of this module you will be able to:
 - Describe some common errors associated with events and the syntax required to handle them.
 
 
-Module 3: Navigation Updating and Assets in React
+## Module 3: Navigation Updating and Assets in React
 
 In this module, you'll learn about routing and navigation in React. You'll learn how to render partial views and how to update routes in your React apps. You'll understand how assets are used, bundled and embedded.
 
@@ -49,7 +49,7 @@ By the end of this module you will be able to:
 - Describe navigation design in React, with a focus on single and multi-page navigation.
 
 
-Module 4: Portfolio Mini-Project (Calculator App)
+## Module 4: Portfolio Mini-Project (Calculator App)
 
 This module is focused on a practical mini project of building a calculator app in React. Upon completing this module, you'll have coded your own mini project in React, as a starting point for building your React portfolio.
 
