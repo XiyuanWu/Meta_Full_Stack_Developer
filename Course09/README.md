@@ -4,7 +4,7 @@ Refer to the [course syllabus](./syllabus9.md).
 
 This course project involves using Django to create a website for Little Lemon, encompassing both the frontend and backend.
 
-Refer to the [detailed instructions](./instructions9/).
+Refer to the [detailed instructions](./instructions9/instructions9.md).
 
 Complete project files refer to the [final project](./django/Final_Project_C9.zip). 
 
