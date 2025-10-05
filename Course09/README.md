@@ -8,4 +8,4 @@ Refer to the [detailed instructions](./instructions9/instructions9.md).
 
 Complete project files refer to the [final project](./django/Final_Project_C9.zip). 
 
-To run this project locally, unzip the file and run `python manage.py runserver`.
+To run this project locally, unzip the file, activate vitual env, and run `python manage.py runserver`.
