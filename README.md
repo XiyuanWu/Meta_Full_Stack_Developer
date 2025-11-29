@@ -1,7 +1,7 @@
 # Meta Full Stack Developer
 
 
-Build a full-stack development project together - the goal of this course: there are seven courses for this specialization to build a complete full-stack development project.
+Build a full-stack development project together - the goal of this course: there are 10 courses for this specialization to build a complete full-stack development project.
 
 At the end of each course, there is an end-of-course project to serve as a showcase and learning outcome, and I will upload my project here. 
 
